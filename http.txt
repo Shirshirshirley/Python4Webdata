@@ -1,0 +1,21 @@
+#Http: hypertext transportation protocal
+    set of rules to allow web browers to retrieve web documents from servers around the world
+#URL:uniform resource locator
+    protocol:http
+    Host:www.dr-chuck.com
+    documenet:/page1.html
+#Request response cycle
+    click ->event in browsers
+    browser makes connection to servers
+    makes application GET Request
+    Server response
+
+    1.GET
+    2.retrieve
+    3.DISPLAY
+#Telnet command
+    telnet www.dr-chuck.com 80
+    GET  http://www.dr-chuck.com/page1.html HTTP/1.0
+    press enter twice 
+    retrieve
+    DISPLAY

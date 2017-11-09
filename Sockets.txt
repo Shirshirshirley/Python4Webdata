@@ -1,0 +1,21 @@
+#TCP: transport control protocol
+    built on top of internet protocol(IP)
+    TCP connections and Sockets
+        Internet or network socket is an endpoint of a bidirectional inter-proccess
+        communication flow across an IP-based computer network
+
+        like a phone call between two applications
+
+        fhandle -->port to look out the exchange data through a socket
+
+#TCP ports
+    port is an application-specific or process-specific communication endpoint
+    allows multiple networked application to coexist on same server
+
+    HTTP 80
+    HTTPS 443
+    SSH
+    IMAP
+    propertyDNS
+    SMTP 25
+    FTP
